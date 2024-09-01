@@ -9,7 +9,7 @@
     <header>
         <h1>{{ site.title }}</h1>
         <nav>
-            <a href="/">Home</a>
+            <a href="{{ site.baseurl }}/">Home</a>
         </nav>
     </header>
     <main>
