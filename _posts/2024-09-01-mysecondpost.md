@@ -15,3 +15,6 @@ This is the content of my second blog post. I'm excited to start blogging!
 3. Thoughts and reflections
 
 Stay tuned for more posts coming soon!
+
+### Here's a test image
+<img src="/assets/images/testimage.jpg" alt="screenshot">
