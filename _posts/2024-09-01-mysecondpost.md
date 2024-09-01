@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "My second Blog Post"
+title: "My second PM Post"
 date: 2024-09-01
+categories: product-management
 ---
 
 # Welcome to my second blog post!

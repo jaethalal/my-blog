@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "My First running Post"
 date: 2024-09-01
+categories: running
 ---
 
 # Welcome to my first blog post!
