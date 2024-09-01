@@ -1,27 +1,33 @@
-title: My Blog
-description: A minimalist blog about Product Management and Running
+title: as above, so below
+description: A blog about Product Management and Running
 author: Your Name
 
 # Build settings
 theme: minima
 
+# Use custom layout
+defaults:
+  -
+    scope:
+      path: ""
+      type: "home"
+    values:
+      layout: "home"
+
 # Customize minima theme
 minima:
   date_format: "%b %-d, %Y"
 
-# Add navigation menu
-header_pages:
-  - about.md
-  - product-management.md
-  - running.md
+# Header pages (uncomment and add files as needed)
+# header_pages:
+#   - about.md
+#   - product-management.md
+#   - running.md
 
-# Social links
-twitter_username: your_twitter_username
-github_username:  your_github_username
-linkedin_username: your_linkedin_username
+# Remove RSS feed (optional)
+# rss: false
 
-# Show excerpts on the home page
-show_excerpts: true
-
-# Enable search
-search: true
+# Add any social links you want to display
+# twitter_username: your_twitter_username
+# github_username:  your_github_username
+# linkedin_username: your_linkedin_username

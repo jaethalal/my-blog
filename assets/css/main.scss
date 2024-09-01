@@ -2,3 +2,75 @@
 @import "minima";
 // Add your custom CSS here
 @import "custom-styles";
+
+/* Custom styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: black;
+  line-height: 1.6;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: none;
+  padding: 20px 0;
+}
+
+.site-title {
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.site-nav {
+  float: none;
+  text-align: center;
+  line-height: 2;
+  .nav-link {
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+    &.about-link {
+      float: right;
+    }
+  }
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+}
+
+.post-item {
+  margin-bottom: 30px;
+}
+
+.post-date {
+  font-size: 0.8em;
+  color: #777;
+}
+
+.post-title {
+  font-family: 'Garamond', cursive;
+  font-size: 1.5em;
+  margin: 0;
+  a {
+    color: black;
+    text-decoration: none;
+  }
+}
+
+.site-footer {
+  border-top: none;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.social-links {
+  font-size: 1.5em;
+  .social-link {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+}
