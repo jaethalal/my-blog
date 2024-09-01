@@ -17,4 +17,4 @@ This is the content of my second blog post. I'm excited to start blogging!
 Stay tuned for more posts coming soon!
 
 ### Here's a test image
-![screenshot](https://jaethalal.github.io/my-blog/assets/images/testimage.png)
+![screenshot](https://jaethalal.github.io/my-blog/assets/images/testimage.png) {:width="300px"}
