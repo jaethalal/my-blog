@@ -17,4 +17,4 @@ This is the content of my second blog post. I'm excited to start blogging!
 Stay tuned for more posts coming soon!
 
 ### Here's a test image
-<img src="/assets/images/testimage.png" alt="screenshot">
+<img src="../assets/images/testimage.png" alt="screenshot">
